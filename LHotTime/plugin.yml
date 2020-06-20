@@ -1,0 +1,7 @@
+name: LHotTime
+main: LeRUGod\LHotTime\LHotTime
+version: 0.0.1
+author: LeRUGod
+api:
+  3.12.1
+  3.13.0
